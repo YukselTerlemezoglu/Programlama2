@@ -1,0 +1,10 @@
+C:\Users\yukse\Desktop\Dersler\Programlama2\Ödevler\Odev4\LabirentForm\LabirentForm\bin\Debug\LabirentForm.exe.config
+C:\Users\yukse\Desktop\Dersler\Programlama2\Ödevler\Odev4\LabirentForm\LabirentForm\bin\Debug\LabirentForm.exe
+C:\Users\yukse\Desktop\Dersler\Programlama2\Ödevler\Odev4\LabirentForm\LabirentForm\bin\Debug\LabirentForm.pdb
+C:\Users\yukse\Desktop\Dersler\Programlama2\Ödevler\Odev4\LabirentForm\LabirentForm\obj\Debug\LabirentForm.csproj.AssemblyReference.cache
+C:\Users\yukse\Desktop\Dersler\Programlama2\Ödevler\Odev4\LabirentForm\LabirentForm\obj\Debug\LabirentForm.Form1.resources
+C:\Users\yukse\Desktop\Dersler\Programlama2\Ödevler\Odev4\LabirentForm\LabirentForm\obj\Debug\LabirentForm.Properties.Resources.resources
+C:\Users\yukse\Desktop\Dersler\Programlama2\Ödevler\Odev4\LabirentForm\LabirentForm\obj\Debug\LabirentForm.csproj.GenerateResource.cache
+C:\Users\yukse\Desktop\Dersler\Programlama2\Ödevler\Odev4\LabirentForm\LabirentForm\obj\Debug\LabirentForm.csproj.CoreCompileInputs.cache
+C:\Users\yukse\Desktop\Dersler\Programlama2\Ödevler\Odev4\LabirentForm\LabirentForm\obj\Debug\LabirentForm.exe
+C:\Users\yukse\Desktop\Dersler\Programlama2\Ödevler\Odev4\LabirentForm\LabirentForm\obj\Debug\LabirentForm.pdb
